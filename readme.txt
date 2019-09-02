@@ -11,7 +11,7 @@ bh
 ==================================================================================================
 
 
-LICENSE:
+LICENSE:d
 KARDS is released under the Creative Commons Attribution 3.0 License
 (http://creativecommons.org/licenses/by/3.0/). This means that you are free:
 
