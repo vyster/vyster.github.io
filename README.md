@@ -1,2 +1,2 @@
 # vyster.github.io
-Readme of the repository is to be edited.
+Readme of the repository is to be edited..
